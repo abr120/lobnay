@@ -1,0 +1,29 @@
+[
+ {
+     "title":"لبنى السريعة - امي نبع الحنان",
+    "provider":"overview",
+    "image":"https://raw.githubusercontent.com/abr120/lobnay/master/60.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/Seasons/lubna/lubna.json"
+    ]
+  },
+  
+  {
+    "title":"الحديقة السرية",
+    "provider":"wordpress",
+    "image":"https://raw.githubusercontent.com/abr120/lobnay/master/86.jpg",
+    "arguments":[
+      "yoodkkaa.wordpress.com",
+      "hadikaseriah"
+    ]
+  },
+      {
+   "title":"ايميلي فتاة الرياح",
+    "provider":"wordpress",
+   "image":"https://raw.githubusercontent.com/abr120/lobnay/master/81.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "emeley"
+    ]
+  }
+]
